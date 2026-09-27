@@ -1,7 +1,3 @@
----
-title: Orbit – Privacy Policy
----
-
 # Orbit – Privacy Policy
 
 _Last updated: 27 September 2026_
